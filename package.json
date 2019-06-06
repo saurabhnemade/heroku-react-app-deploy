@@ -5,10 +5,11 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "serve": "latest"
   },
   "scripts": {
-    "start": "yarn server -p 80 -d build",
+    "start": "serve -p 80 -s build",
     "startDev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
