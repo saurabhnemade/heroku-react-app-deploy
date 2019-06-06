@@ -1,0 +1,24 @@
+{
+  "name": "heroku-react-app-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building it\"",
+    "start": "echo \"My Start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhnemade/heroku-react-app-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhnemade/heroku-react-app-deploy/issues"
+  },
+  "homepage": "https://github.com/saurabhnemade/heroku-react-app-deploy#readme",
+  "engines": {
+    "yarn": "1.12.3"
+  }
+}
