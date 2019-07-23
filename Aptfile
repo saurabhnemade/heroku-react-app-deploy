@@ -6,5 +6,6 @@ fonts-wqy-zenhei
 fonts-thai-tlwg
 fonts-kacst
 xfonts-utils
+iptables
 
 :repo:deb http://dl.google.com/linux/chrome/deb/ stable main
