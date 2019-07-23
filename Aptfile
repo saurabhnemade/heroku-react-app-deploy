@@ -8,4 +8,4 @@ fonts-kacst
 xfonts-utils
 iptables
 
-:repo:deb http://dl.google.com/linux/chrome/deb/ stable main
+#:repo:deb http://dl.google.com/linux/chrome/deb/ stable main
