@@ -1,5 +1,10 @@
-xvfb
-libfontconfig
-wkhtmltopdf
+wget
+gnupg2
+google-chrome-stable
+fonts-ipafont-gothic
+fonts-wqy-zenhei
+fonts-thai-tlwg
+fonts-kacst
+xfonts-utils
 
-:repo:deb http://cz.archive.ubuntu.com/ubuntu artful main universe
+:repo:deb http://dl.google.com/linux/chrome/deb/ stable main
