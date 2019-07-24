@@ -1,1 +1,1 @@
-web: npm run startab
+web: npm run startan
