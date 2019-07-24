@@ -9,7 +9,7 @@
     "serve": "latest"
   },
   "scripts": {
-    "start": "serve -p $PORT -s build",
+    "startan": "serve -p $PORT -s build",
     "startDev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
